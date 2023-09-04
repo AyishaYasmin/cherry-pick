@@ -2,5 +2,8 @@
 <html>
 	<body>
 		<h2>computer code</h2>
+x=5;
+y=6;
+z=x+y;
 
 
