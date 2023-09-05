@@ -1,2 +1,7 @@
-<p>some programming code:</p>
-<code>
+git commands
+git status
+git log
+git commit -m <name>
+git log --online
+git add <file name>
+
